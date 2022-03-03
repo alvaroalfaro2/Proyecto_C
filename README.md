@@ -17,12 +17,12 @@ Para compilar, debe estar ubicado en la dirección de esta carpeta en la termina
 
 ## Para compilar:
 ```bash
-$ gcc `pkg-config --cflags gtk+-3.0` Proyecto_C.c -o exe `pkg-config --libs gtk+-3.0`
+gcc `pkg-config --cflags gtk+-3.0` Proyecto_C.c -o exe `pkg-config --libs gtk+-3.0`
 ```
 
 ## Para ejecutar:
 ```bash
-$ ./exe
+./exe
 ```
 Esta carpeta también cuenta con un Makefile, por lo tanto, se puede compilar y ejecutar el programa de una manera más sencilla:
 
@@ -30,14 +30,14 @@ Para compilar, debe estar ubicado en la dirección de esta carpeta en la termina
 
 ## Para compilar:
 ```bash
-$ make
+make
 ```
 ## Para ejecutar:
 ```bash
-$ make run
+make run
 ```
 ## Para borrar el ejecutable:
 ```bash
-$ make clean
+make clean
 ```
 Para este proyecto se utilizó la biblioteca GTK, esta viene instalada de manera previa por lo que no se necesita una instalación extra para poder utilizar este programa.
