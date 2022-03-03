@@ -1,4 +1,4 @@
-# Proyecto_C
+# Proyecto C
 Proyecto C. Programacion bajo plataformas abiertas 
 
 Integrantes: 
