@@ -1,5 +1,6 @@
 # Proyecto C
-Proyecto C. Programacion bajo plataformas abiertas 
+Programacion bajo plataformas abiertas
+Universidad de Costa Rica
 
 Integrantes: 
 
